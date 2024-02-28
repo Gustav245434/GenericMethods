@@ -1,7 +1,15 @@
 import java.util.Arrays;
 
+/**
+ * Klasse die GenericUtils Klasse testen
+ * @author Gustav Glatzel
+ * @version 2024-02-28
+ */
 public class GenericMethodTest {
-
+    /**
+     * Main Methode zum Testen
+     * @param args Kein Nutzen
+     */
     public static void main(String[] args) {
 
         String[] obstSorten = {"Apfel", "Birne", "Banane"};

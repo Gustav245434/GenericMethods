@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11fb1c3b-0fd1-455d-9b1f-81fd75048d2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GenericMethodTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenericMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericMethodTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GenericUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709128975836</updated>
-      <workItem from="1709128976833" duration="2326000" />
+      <workItem from="1709128976833" duration="2718000" />
     </task>
     <task id="LOCAL-00001" summary="Add GenericUtils class with method to flip Generic Array">
       <created>1709130187914</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709130426829</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add GenericMethodTest class to test GenericUtils class methods and fix a bug in GenericUtils where sometimes an array is not flipped correctly">
+      <created>1709131459124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709131459124</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +82,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add GenericUtils class with method to flip Generic Array" />
     <MESSAGE value="Add sum method to calculate the sum of a generic array that must extend java.lang.Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add sum method to calculate the sum of a generic array that must extend java.lang.Number" />
+    <MESSAGE value="Add GenericMethodTest class to test GenericUtils class methods and fix a bug in GenericUtils where sometimes an array is not flipped correctly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add GenericMethodTest class to test GenericUtils class methods and fix a bug in GenericUtils where sometimes an array is not flipped correctly" />
   </component>
 </project>
