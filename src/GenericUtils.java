@@ -8,4 +8,12 @@ public class GenericUtils {
         }
     }
 
+    public static <T extends Number> double sum(T[] array) {
+        double sum = 0;
+        for (T element : array) {
+            sum += element.doubleValue();
+        }
+        return sum;
+    }
+
 }
